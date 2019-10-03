@@ -1,5 +1,5 @@
 {
-  "name": "storyApps",
+  "name": "storyapps",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -80,5 +80,12 @@
       "android"
     ]
   },
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vino88/storyApps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vino88/storyApps/issues"
+  }
 }
