@@ -1,5 +1,7 @@
 {
   "name": "storyApps",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
